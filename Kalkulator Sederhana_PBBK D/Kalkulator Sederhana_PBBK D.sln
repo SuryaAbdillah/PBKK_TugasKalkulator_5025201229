@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator Sederhana_PBBK D", "Kalkulator Sederhana_PBBK D\Kalkulator Sederhana_PBBK D.csproj", "{3C413689-9DC7-4F13-B0BC-FDC0BF5E8DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C413689-9DC7-4F13-B0BC-FDC0BF5E8DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C413689-9DC7-4F13-B0BC-FDC0BF5E8DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C413689-9DC7-4F13-B0BC-FDC0BF5E8DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C413689-9DC7-4F13-B0BC-FDC0BF5E8DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7975FC7E-2C70-4DE8-9773-9563C42AFEEB}
+	EndGlobalSection
+EndGlobal
